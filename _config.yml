@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amil Dravud"
+title                    : "Amil Dravid"
 title_separator          : "-"
 name                     : &name "Amil Dravid"
 description              : &description "personal website"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Amil Dravid"
-  avatar           : "headshot.PNG"
+  avatar           : "headshot.png"
   bio              : "Junior Computer Science and Statistics Student"
   location         : "Northwestern University"
   employer         :
