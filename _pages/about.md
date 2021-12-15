@@ -47,7 +47,7 @@ Emanuel Azcona, Pierre Besson, Yunan Wu, Arjun Punjabi, Adam Martersteck, **Amil
 *MICCAI ShapeMI Workshop, 2020.*    
 [[pdf]](https://arxiv.org/pdf/2008.06151.pdf) <br>
 
-<img src='/images/brain_morphology1.PNG' alt='' width='130' height='100'> <img src='/images/brain_morphology2.PNG' alt='' width='200' height='200'>
+<img src='/images/brain_morphology1.PNG' alt='' width='200' height='200'> <img src='/images/brain_morphology2.PNG' alt='' width='200' height='200'>
 
 [Employing deep networks for image processing on small research datasets](https://www.cambridge.org/core/journals/microscopy-today/article/employing-deep-networks-for-image-processing-on-small-research-datasets/B7A800F46E0C2932088B96AE05CE436C)  
 **Amil Dravid** <br>
