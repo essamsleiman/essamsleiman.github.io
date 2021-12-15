@@ -1,11 +1,15 @@
 # main links links
 main:
-  
-  - title: "Other"
-    url: /other/
+  - title: "News"
+    url: /News/
     
   - title: "CV"
     url: "/files/AMIL_DRAVID_CV(DEC2021).pdf"
+    
+  - title: "Other"
+    url: /other/
+    
+  
     
  
  
