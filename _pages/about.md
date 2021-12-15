@@ -61,10 +61,10 @@ Emanuel Azcona, Pierre Besson, Yunan Wu, Arjun Punjabi, Adam Martersteck, **Amil
 Teaching Experience
 ======
 **COMP SCI 349: Machine Learning**-- Spring 2021<br>
-Teaching Assistant--I graded coding and written assignments, held multiple weekly office hours, and taught some lectures pertaining to foundational machine learning algorithms. <br>
+*Teaching Assistant*--I graded coding and written assignments, held multiple weekly office hours, and taught some lectures pertaining to foundational machine learning algorithms. <br>
 
 **Student-Led Mini-Class: Deep Learning in Practice**-- Winter 2021 <br>
-Lecturer--I designed and taught a workshop that surveyed various applications of deep learning in professional, industry, and research settings. ∼50 students in this course learned how to code mini-projects in PyTorch and TensorFlow/Keras such as voice recognition or object detection systems.
+*Lecturer*--I designed and taught a workshop that surveyed various applications of deep learning in professional, industry, and research settings. ∼50 students in this course learned how to code mini-projects in PyTorch and TensorFlow/Keras such as voice recognition or object detection systems.
 
 
 
