@@ -40,7 +40,7 @@ Ramsey M. Wehbe, Jiayue Sheng, Shinjan Dutta, Siyuan Chai, **Amil Dravid**, et a
 *Radiology, 2021.*    
 [[pdf]](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020203511) / [[code]](https://github.com/IVPLatNU/DeepCovidXR) <br>
 
-<img src='/master/images/deepcovid.jpeg' alt='' width='200' height='200'>
+<img src='/images/deepcovid.jpeg' alt='' width='200' height='200'>
 
 [Interpretation of brain morphology in association to alzheimer’s disease dementia classification using graph convolutional networks on triangulated meshes](https://link.springer.com/chapter/10.1007/978-3-030-61056-2_8)  
 Emanuel Azcona, Pierre Besson, Yunan Wu, Arjun Punjabi, Adam Martersteck, **Amil Dravid**, et al. <br>
