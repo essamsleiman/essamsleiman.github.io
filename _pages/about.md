@@ -15,7 +15,7 @@ redirect_from:
 
 Research
 ======
-* I am driven by the desire to understand and transform visual representations of the world around us. 
+* I am driven to understand and transform visual representations of the world around us. 
 * Specifically, one of the major bottlenecks for implementing machine learning models in practice is explainability. We need to develop confidence in order to apply these algorithms in practice, from medical diagnosis to autonomous navigation. The “black-box” nature of many machine learning models is enticing. 
 * My research tackles explainability, out-of-distribution data, domain adaptation, and robustness to adversarial attacks, specifically in a vision context. I am also keen to explore how these concepts impact society in complex issues, such as in healthcare and quality of life.
 
