@@ -9,7 +9,13 @@ title: "Other"
   <img src="/images/NUIEEE.PNG" alt='' width='200' height='200'>
 </p>
 * I enjoy drumming! Particularly jazz and rock. 
-* I am a competitive Taekwondo athlete. <br>
+<p align="center">
+  <img src="/images/jazzdrum.PNG" alt='' width='200' height='200'>
+</p>
 
-<img src="/images/jazzdrum.PNG" alt='' width='200' height='200'>
-<img src="/images/taekwondo.jpg" alt='' width='200' height='200'>
+* I am a competitive Taekwondo athlete.
+<p align="center">
+  <img src="/images/taekwondo.jpg" alt='' width='200' height='200'>
+</p>
+
+
