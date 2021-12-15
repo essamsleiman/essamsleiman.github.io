@@ -55,6 +55,7 @@ Emanuel Azcona, Pierre Besson, Yunan Wu, Arjun Punjabi, Adam Martersteck, **Amil
 [[pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B7A800F46E0C2932088B96AE05CE436C/S1551929518001311a.pdf/employing_deep_networks_for_image_processing_on_small_research_datasets.pdf) / [[code]](https://github.com/avdravid/TEM_cell_seg) <br>
 
 <img src='/images/employingdeep.PNG' alt='' width='200' height='200'>
+<br>
 
 Teaching Experience
 ======
