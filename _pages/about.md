@@ -12,6 +12,8 @@ redirect_from:
 * I am particularly interested in foundational research with broad applications not only to computer science and engineering, but with potential to improve society through avenues such as healthcare. I aim to pursue an academic career in research and teaching at the university level. 
 * I am extremely grateful to be advised by [Prof. Aggelos Katsaggelos](https://ivpl.northwestern.edu/) in the Image and Video Processing Lab (IVPL), in addition to collaborating with [Prof. Ollie Cossairt](https://compphotolab.northwestern.edu/) and the Computational Photography Lab. 
 
+![Editing a markdown file for a talk](/images/visual_explanations.PNG)
+
 Research
 ======
 * I am driven by the desire to understand and transform visual representations of the world around us. 
