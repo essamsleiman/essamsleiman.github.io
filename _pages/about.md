@@ -12,7 +12,6 @@ redirect_from:
 * I am particularly interested in foundational research with broad applications not only to computer science and engineering, but with potential to improve society through avenues such as healthcare. I aim to pursue an academic career in research and teaching at the university level. 
 * I am extremely grateful to be advised by [Prof. Aggelos Katsaggelos](https://ivpl.northwestern.edu/) in the Image and Video Processing Lab (IVPL), in addition to collaborating with [Prof. Ollie Cossairt](https://compphotolab.northwestern.edu/) and the Computational Photography Lab. 
 
-![Editing a markdown file for a talk](/images/visual_explanations.PNG)
 
 Research
 ======
@@ -26,6 +25,8 @@ Publications
 **Amil Dravid**, Aggelos K Katsaggelos  <br>
 *AAAI-2022 Student Abstract Track.*    
 [[pdf]](https://arxiv.org/pdf/2111.00116.pdf) / [[code]](https://github.com/avdravid/LatentTraversalViz) <br>
+![](/images/visual_explanations.PNG) ![](/images/visual_explanations2.PNG)
+
 
 <img src="https://github.com/avdravid/academicpages.github.io/blob/master/images/visual_explanations.PNG" alt='' width='100' height='100'> <img src='https://github.com/avdravid/academicpages.github.io/blob/master/images/visual_explanations2.PNG' alt='' width='175' height='100'>
 
