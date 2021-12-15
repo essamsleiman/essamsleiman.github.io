@@ -26,7 +26,7 @@ Publications
 *AAAI-2022 Student Abstract Track.*    
 [[pdf]](https://arxiv.org/pdf/2111.00116.pdf) / [[code]](https://github.com/avdravid/LatentTraversalViz) <br>
 
-<img src="/images/visual_explanations.PNG" alt='' width='100' height='100'> <img src='/images/visual_explanations2.PNG' alt='' width='175' height='100'>
+<img src="/images/visual_explanations.PNG" alt='' width='150' height='150'> <img src='/images/visual_explanations2.PNG' alt='' width='175' height='100'>
 
 [Early Upper Aerodigestive Tract Cancer Detection Using Electron Microscopy to Reveal Chromatin Packing Alterations in Buccal Mucosa Cells](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/early-upper-aerodigestive-tract-cancer-detection-using-electron-microscopy-to-reveal-chromatin-packing-alterations-in-buccal-mucosa-cells/C9AC18A1D01863A8A55F3CC9AE6F9113)  
 Oisín Bugter, Yue Li, Anouk H.G. Wolters, Vasundhara Agrawal, **Amil Dravid**, et al. <br>
