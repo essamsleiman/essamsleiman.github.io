@@ -56,7 +56,7 @@ Emanuel Azcona, Pierre Besson, Yunan Wu, Arjun Punjabi, Adam Martersteck, **Amil
 
 <img src='/images/employingdeep.PNG' alt='' width='200' height='200'>
 <br>
-
+<br>
 Teaching Experience
 ======
 **COMP SCI 349: Machine Learning**-- Spring 2021<br>
