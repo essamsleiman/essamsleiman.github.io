@@ -5,4 +5,7 @@ main:
   - title: "CV"
     url: "/files/AMIL_DRAVID_CV(DEC2021).pdf"
     
+  - title: "Other"
+    url: "/_pages/about.md"
+    
  
