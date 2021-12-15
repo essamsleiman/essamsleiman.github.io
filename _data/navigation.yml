@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
+  
     
   - title: "CV"
     url: "/files/AMIL_DRAVID_CV(DEC2021).pdf"
     
-  - title: "Guide"
-    url: /markdown/
+ 
