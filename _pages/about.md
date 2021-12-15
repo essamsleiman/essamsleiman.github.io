@@ -25,7 +25,7 @@ Publications
 **Amil Dravid**, Aggelos K Katsaggelos  <br>
 *AAAI-2022 Student Abstract Track.*    
 [[pdf]](https://arxiv.org/pdf/2111.00116.pdf) / [[code]](https://github.com/avdravid/LatentTraversalViz) <br>
-![](/images/visual_explanations.PNG) ![](/images/visual_explanations2.PNG)
+![](/images/visual_explanations.PNG = 100x100) ![](/images/visual_explanations2.PNG = 175x100)
 
 
 <img src="https://github.com/avdravid/academicpages.github.io/blob/master/images/visual_explanations.PNG" alt='' width='100' height='100'> <img src='https://github.com/avdravid/academicpages.github.io/blob/master/images/visual_explanations2.PNG' alt='' width='175' height='100'>
