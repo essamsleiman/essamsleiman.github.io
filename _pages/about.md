@@ -26,14 +26,17 @@ Publications
 *ICASSP, 2022.*    
 [[pdf]](https://arxiv.org/pdf/2201.09120.pdf) / [[code]](https://github.com/avdravid/AC-GANS-FOR-IMAGE-CLASSIFICATION) <br>
 
-<img src="/images/visual_explanations.PNG" alt='' width='200' height='200'> <img src='/images/visual_explanations2.PNG' alt='' width='200' height='200'>
+<img src="/images/ac-gan1.PNG" alt='' width='200' height='200'> <img src='/images/ac-gan2.PNG' alt='' width='200' height='200'>
+
 
 [Visual Explanations for Convolutional Neural Networks via Latent Traversal of Generative Adversarial Networks](https://arxiv.org/abs/2111.00116)  
 **Amil Dravid**, Aggelos K Katsaggelos  <br>
 *AAAI-2022 Student Abstract Track.*    
 [[pdf]](https://arxiv.org/pdf/2111.00116.pdf) / [[code]](https://github.com/avdravid/LatentTraversalViz) <br>
 
-<img src="/images/ac-gan1.PNG" alt='' width='200' height='200'> <img src='/images/ac-gan2.PNG' alt='' width='200' height='200'>
+<img src="/images/visual_explanations.PNG" alt='' width='200' height='200'> <img src='/images/visual_explanations2.PNG' alt='' width='200' height='200'>
+
+
 
 [Early Upper Aerodigestive Tract Cancer Detection Using Electron Microscopy to Reveal Chromatin Packing Alterations in Buccal Mucosa Cells](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/early-upper-aerodigestive-tract-cancer-detection-using-electron-microscopy-to-reveal-chromatin-packing-alterations-in-buccal-mucosa-cells/C9AC18A1D01863A8A55F3CC9AE6F9113)  
 Oisín Bugter, Yue Li, Anouk H.G. Wolters, Vasundhara Agrawal, **Amil Dravid**, et al. <br>
