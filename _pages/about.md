@@ -21,8 +21,15 @@ Research
 
 Publications
 ======
+[medXGAN: Visual Explanations for Medical Classifiers through a Generative Latent Space](https://arxiv.org/abs/2204.05376)  
+**Amil Dravid**, Florian Schiffers, Boqing Gong, Aggelos K. Katsaggelos  <br>
+*ICASSP, 2022.*    
+[[pdf]](https://arxiv.org/pdf/2204.05376.pdf) / [[project page]](https://avdravid.github.io/medXGAN_page/) <br>
+
+
+<img src="/images/ac-gan1.PNG" alt='' width='200' height='200'> <img src='/images/ac-gan2.PNG' alt='' width='200' height='200'>
 [Investigating the Potential of Auxiliary-Classifier GANs for Image Classification in Low Data Regimes](https://arxiv.org/abs/2201.09120)  
-**Amil Dravid**, Florian Schiffers, Yunan Wu, Oliver Cossairt, Aggelos K Katsaggelos  <br>
+**Amil Dravid**, Florian Schiffers, Yunan Wu, Oliver Cossairt, Aggelos K. Katsaggelos  <br>
 *ICASSP, 2022.*    
 [[pdf]](https://arxiv.org/pdf/2201.09120.pdf) / [[code]](https://github.com/avdravid/AC-GANS-FOR-IMAGE-CLASSIFICATION) <br>
 
@@ -30,7 +37,7 @@ Publications
 
 
 [Visual Explanations for Convolutional Neural Networks via Latent Traversal of Generative Adversarial Networks](https://arxiv.org/abs/2111.00116)  
-**Amil Dravid**, Aggelos K Katsaggelos  <br>
+**Amil Dravid**, Aggelos K. Katsaggelos  <br>
 *AAAI-2022 Student Abstract Track.*    
 [[pdf]](https://arxiv.org/pdf/2111.00116.pdf) / [[code]](https://github.com/avdravid/LatentTraversalViz) <br>
 
