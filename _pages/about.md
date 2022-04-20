@@ -26,7 +26,7 @@ Publications
 *CVPR Trusted Computer Vision Workshop (long paper), 2022.*    
 [[pdf]](https://arxiv.org/pdf/2204.05376.pdf) / [[project page]](https://avdravid.github.io/medXGAN_page/) <br>
 
-<img src="/images/teaser.png" alt='' width='200' height='200'> <img src='/images/ac-gan2.PNG' alt='' width='200' height='200'>
+<img src="/images/teaser.png" alt='' width='200' height='200'> 
 
 
 [Investigating the Potential of Auxiliary-Classifier GANs for Image Classification in Low Data Regimes](https://arxiv.org/abs/2201.09120)  
