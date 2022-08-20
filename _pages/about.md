@@ -8,73 +8,62 @@ redirect_from:
   - /about.html
 ---
 
-- Hi!sdf I'm a Northwestern University computer science and statistics junior with interests in artificial intelligence: specifically representation learning and computer vision.
-- I am particularly interested in foundational research with broad applications not only to computer science and engineering, but with potential to improve society through avenues such as healthcare. I aim to pursue an academic career in research and teaching at the university level.
-- I am grateful to be advised by [Prof. Aggelos Katsaggelos](https://ivpl.northwestern.edu/) in the Image and Video Processing Lab (IVPL), in addition to collaborating with [Prof. Ollie Cossairt](https://compphotolab.northwestern.edu/) and the Computational Photography Lab.
+Hi! 👋 I'm an incoming 4th year computer science student at UC Davis with a broad interest in machine learning + computer vision and how it can be applied to solve problems with a positive societal impact.
 
-# Research
+Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) as the CTO in my freshman year of college with three of my best friends with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members, where we consult software projects for high growth startups.
 
-- I am driven to understand and transform visual representations of the world around us.
-- Specifically, one of the major bottlenecks for implementing machine learning models in practice is explainability. We need to develop confidence in order to apply these algorithms in practice, from medical diagnosis to autonomous navigation. The “black-box” nature of many machine learning models is enticing.
-- My research tackles explainability, out-of-distribution data, domain adaptation, and robustness to adversarial attacks, specifically in a vision context. I am also keen to explore how these concepts impact society in complex issues, such as in healthcare and quality of life.
+After joining [Twitch/Amazon](https://www.twitch.tv/) 3x as a Machine Learning Intern and conducting undergraduate Machine Learning research at both UC Davis and Stanford University, I became passionate and excited about a new tool: Machine Learning. More specifically, I am interested in applying cutting-edge deep learning and computer vision techniques to solve important problems.
+
+# Experience
+
+## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 🎮
+
+- **2022 (Applied Science):** Developed novel unsupervised continual learning framework on streaming data.
+
+- **2021 Fall (Software Engineer):** Designed & developed an end-to-end, real-time Media Analysis Service utilizing both Machine-Learning based services, and my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content.
+
+- **2021 Summer (Applied Science):** Developed a Twitch content representation Image Embedding trained using self-supervised learning
+
+## Undergraduate Research Intern 💻
+
+- **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
+
+  - Topic: Self-Supervised, Multi-Modal Representation Learning
+
+- **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
+  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings. **[Published in JMIR 2022]**.
+  - Project 2: Novel Facial Emotion Recognition Dataset, "TikTok for Good: Creating a Diverse Emotion Expression Database". **[Published at CVPR 2022]**.
+
+## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
+
+- UC Davis student organization that builds software for high-growth startups
+- Cofounder/President where I grew organization from 7 members to 30+ within a year and which now has grown into 60+ members
+- Reached out to hundreds of startups prior to each cohort, negotiated project scope and needs, and finalized agreements with startup clients.
+- Led weekly meetings with CodeLab leadership to reinforce direction, improve student member experience, and ensure project completion for our clients
+- Project Mentor for CodeLab's ReFocus AI, Family Proud, and Ambii client startup teams. Collaborated with company leadership regularly to ensure CodeLab met their needs. Successfully delivered high quality projects that exceeded startup client expectations.
+
+## [Komma](https://github.com/essamsleiman/komma-web/) (Cofounder/CTO) 🏢
+
+- A web app which simplifies the way sales representatives schedule meetings.
+- As Co-Founder/CTO, I led development of full-stack web application using React.js, Node.js, MongoDB, GCP, & AWS.
+- Communicated with customers regularly for feedback & implemented necessary improvements.
+- Released application as Beta, but eventually halted the project as we struggled to find product-market fit. Learned a lot along the process.
 
 # Publications
 
-[medXGAN: Visual Explanations for Medical Classifiers through a Generative Latent Space](https://arxiv.org/abs/2204.05376)  
-**Amil Dravid**, Florian Schiffers, Boqing Gong, Aggelos K. Katsaggelos <br>
-_CVPR Trusted Computer Vision Workshop (long paper), 2022._  
-[[pdf]](https://arxiv.org/pdf/2204.05376.pdf) / [[project page]](https://avdravid.github.io/medXGAN_page/) <br>
+[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](pub1)  
+**Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
+_JMIR 2022._  
+[Processing: Email me for access to pdf.]
 
-<img src="/images/teaser.png" alt='' width='200' height='200'>
+<img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'>
 
-[Investigating the Potential of Auxiliary-Classifier GANs for Image Classification in Low Data Regimes](https://arxiv.org/abs/2201.09120)  
-**Amil Dravid**, Florian Schiffers, Yunan Wu, Oliver Cossairt, Aggelos K. Katsaggelos <br>
-_ICASSP, 2022._  
+[TikTok for Good: Creating a Diverse Emotion Expression Database](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Surabhi_TikTok_for_Good_Creating_a_Diverse_Emotion_Expression_Database_CVPRW_2022_paper.html)  
+Saimourya Surabhi,...,**Essam Sleiman**, Dennis P. Wall <br>
+_Computer Vision and Patern Recognition (CVPR) Workshop, 2022._  
 [[pdf]](https://arxiv.org/pdf/2201.09120.pdf) / [[code]](https://github.com/avdravid/AC-GANS-FOR-IMAGE-CLASSIFICATION) <br>
 
 <img src="/images/ac-gan1.PNG" alt='' width='200' height='200'> <img src='/images/ac-gan2.PNG' alt='' width='200' height='200'>
 
-[Visual Explanations for Convolutional Neural Networks via Latent Traversal of Generative Adversarial Networks](https://arxiv.org/abs/2111.00116)  
-**Amil Dravid**, Aggelos K. Katsaggelos <br>
-_AAAI-2022 Student Abstract Track._  
-[[pdf]](https://arxiv.org/pdf/2111.00116.pdf) / [[code]](https://github.com/avdravid/LatentTraversalViz) <br>
-
-<img src="/images/visual_explanations.PNG" alt='' width='200' height='200'> <img src='/images/visual_explanations2.PNG' alt='' width='200' height='200'>
-
-[Early Upper Aerodigestive Tract Cancer Detection Using Electron Microscopy to Reveal Chromatin Packing Alterations in Buccal Mucosa Cells](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/early-upper-aerodigestive-tract-cancer-detection-using-electron-microscopy-to-reveal-chromatin-packing-alterations-in-buccal-mucosa-cells/C9AC18A1D01863A8A55F3CC9AE6F9113)  
-Oisín Bugter, Yue Li, Anouk H.G. Wolters, Vasundhara Agrawal, **Amil Dravid**, et al. <br>
-_Microscopy and Microanalysis, 2021._  
-[Email me for access to pdf.] <br>
-
-<img src='/images/early_upper1.PNG' alt='' width='200' height='200'><img src='/images/early_upper2.PNG' alt='' width='200' height='200'>
-
-[DeepCOVID-XR: an artificial intelligence algorithm to detect COVID-19 on chest radiographs trained and tested on a large US clinical data set](https://pubs.rsna.org/doi/full/10.1148/radiol.2020203511)  
-Ramsey M. Wehbe, Jiayue Sheng, Shinjan Dutta, Siyuan Chai, **Amil Dravid**, et al. <br>
-_Radiology, 2021._  
-[[pdf]](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020203511) / [[code]](https://github.com/IVPLatNU/DeepCovidXR) <br>
-
-<img src='/images/deepcovid.jpeg' alt='' width='200' height='200'>
-
-[Interpretation of brain morphology in association to alzheimer’s disease dementia classification using graph convolutional networks on triangulated meshes](https://link.springer.com/chapter/10.1007/978-3-030-61056-2_8)  
-Emanuel Azcona, Pierre Besson, Yunan Wu, Arjun Punjabi, Adam Martersteck, **Amil Dravid**, et al. <br>
-_MICCAI ShapeMI Workshop, 2020._  
-[[pdf]](https://arxiv.org/pdf/2008.06151.pdf) <br>
-
-<img src='/images/brain_morphology1.PNG' alt='' width='200' height='200'> <img src='/images/brain_morphology2.PNG' alt='' width='200' height='200'>
-
-[Employing deep networks for image processing on small research datasets](https://www.cambridge.org/core/journals/microscopy-today/article/employing-deep-networks-for-image-processing-on-small-research-datasets/B7A800F46E0C2932088B96AE05CE436C)  
-**Amil Dravid** <br>
-_Microscopy Today, 2019._  
-[[pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B7A800F46E0C2932088B96AE05CE436C/S1551929518001311a.pdf/employing_deep_networks_for_image_processing_on_small_research_datasets.pdf) / [[code]](https://github.com/avdravid/TEM_cell_seg) <br>
-
-<img src='/images/employingdeep.PNG' alt='' width='200' height='200'>
 <br>
 <br>
-
-# Teaching Experience
-
-**COMP SCI 349: Machine Learning**-- Spring 2021<br>
-_Teaching Assistant_--I graded coding and written assignments, held multiple weekly office hours, and taught some lectures pertaining to foundational machine learning algorithms. <br>
-
-**Student-Led Mini-Class: Deep Learning in Practice**-- Winter 2021 <br>
-_Lecturer_--I designed and taught a workshop that surveyed various applications of deep learning in professional, industry, and research settings. ∼50 students in this course learned how to code mini-projects in PyTorch and TensorFlow/Keras such as voice recognition or object detection systems.
