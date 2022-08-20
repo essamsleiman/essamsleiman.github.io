@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! 👋 I'm an incoming 4th year computer science student at UC Davis with a broad interest in machine learning + computer vision and how it can be applied to solve problems with a positive societal impact.
 
-Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) as the CTO in my freshman year of college with three of my best friends with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members, where we consult software projects for high growth startups.
+Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) with three of my classmates as the CTO in my freshman year of college with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members, where we consult software projects for tech startups.
 
-After joining [Twitch/Amazon](https://www.twitch.tv/) 3x as a Machine Learning Intern and conducting undergraduate Machine Learning research at both UC Davis and Stanford University, I became passionate and excited about a new tool: Machine Learning. More specifically, I am interested in applying cutting-edge deep learning and computer vision techniques to solve important problems.
+After joining [Twitch/Amazon](https://www.twitch.tv/) for three internships as a Machine Learning Engineer and conducting undergraduate Machine Learning research at both UC Davis and Stanford University, I became passionate and excited about a new tool: Machine Learning. More specifically, I am interested in applying cutting-edge deep learning and computer vision techniques to solve important problems.
 
 # Experience
 
-## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 🎮
+## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
 
 - **2022 (Applied Science):** Developed novel unsupervised continual learning framework on streaming data.
 
