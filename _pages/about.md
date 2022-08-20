@@ -31,7 +31,8 @@ After joining [Twitch/Amazon](https://www.twitch.tv/) for three internships as a
   - Topic: Self-Supervised, Multi-Modal Representation Learning
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
-  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings. **[Published in JMIR 2022]**.
+  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.
+    **[Published in JMIR 2022]**.
   - Project 2: Novel Facial Emotion Recognition Dataset, "TikTok for Good: Creating a Diverse Emotion Expression Database". **[Published at CVPR 2022]**.
 
 ## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
