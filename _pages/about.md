@@ -60,7 +60,7 @@ _JMIR 2022._
 
 [TikTok for Good: Creating a Diverse Emotion Expression Database](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Surabhi_TikTok_for_Good_Creating_a_Diverse_Emotion_Expression_Database_CVPRW_2022_paper.html)  
 Saimourya Surabhi,...,**Essam Sleiman**, Dennis P. Wall <br>
-_Computer Vision and Patern Recognition (CVPR) Workshop, 2022._  
+_Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._  
 [[pdf]](https://arxiv.org/pdf/2201.09120.pdf) / [[code]](https://github.com/avdravid/AC-GANS-FOR-IMAGE-CLASSIFICATION) <br>
 
 <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'>
