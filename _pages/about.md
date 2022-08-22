@@ -67,5 +67,19 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 
 <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'>
 
+[Loss Weighting Strategies for Latent Negative Transfer](pub2)  
+Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi <br>
+_arXiv 2022_  
+[Processing: Email me for access to pdf.]
+
+<img src="/images/affwild_model.png" alt='' width='300' height='200'>
+
+[Continually Learning Self-Supervised Image Embeddings](pub2)  
+**Essam Sleiman**, Linda Liu, Ruth Toner, Saad Ali <br>
+_arXiv 2022_  
+[Processing: Email me for access to pdf.]
+
+<!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
+
 <br>
 <br>
