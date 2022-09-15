@@ -12,7 +12,7 @@ Hi! 👋 I'm an incoming 4th year computer science student at UC Davis with a br
 
 Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) as the CTO with three of my classmates in my freshman year of college with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members (the largest CS club at UC Davis), where we consult software projects for tech startups.
 
-After joining [Twitch/Amazon](https://www.twitch.tv/) for three internships as a Software Engineer and conducting undergraduate Machine Learning research at both UC Davis and Stanford University, I became passionate and excited about Machine Learning. I am particularly interested in researching and applying deep learning techniques to solve important problems.
+After joining [Twitch/Amazon](https://www.twitch.tv/) for three internships as a Software Engineer and conducting undergraduate Machine Learning research at both UC Davis and Stanford University, I became passionate and excited about Machine Learning. I am particularly interested in researching and applying deep learning techniques to solve interesting problems.
 
 # Experience
 
