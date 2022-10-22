@@ -68,7 +68,7 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'>
 
 [Loss Weighting Strategies for Latent Negative Transfer](pub2)  
-Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi <br>
+Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
 _arXiv 2022 (Student Abstract)_  
 [Processing: Email me for access to pdf.]
 
