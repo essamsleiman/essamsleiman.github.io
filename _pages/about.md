@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I'm an incoming 4th year computer science student at UC Davis with a broad interest in software engineering + machine learning and how they can be applied to solve important societal problems.
+Hi! 👋 I'm an incoming 4th year computer science student at UC Davis with a broad interest in computer vision & machine learning and how they can be applied to solve important societal problems.
 
-Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) as the CTO with three of my classmates in my freshman year of college with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members (the largest CS club at UC Davis), where we consult software projects for tech startups.
+Ever since I was a kid, I have been extremely passionate about technology and how it can be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) as the CTO with three of my classmates in my freshman year of college with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members (the largest CS club at UC Davis), where we consult software projects for tech startups.
 
-After joining [Twitch/Amazon](https://www.twitch.tv/) for three internships as a Software Engineer and conducting undergraduate Machine Learning research at both UC Davis and Stanford University, I became passionate and excited about Machine Learning. I am particularly interested in researching and applying deep learning techniques to solve interesting problems.
+Most recently, I joined [Twitch/Amazon](https://www.twitch.tv/) for three internships as an ML Engineer where I worked on unsupervised and continual visual representation learning on streaming video data and have been conducting undergraduate ML research at UC Davis and Stanford University focused on multi-modal representation Learning and applications of ML in healthcare, respectively.
 
 # Experience
 
 ## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
 
-- **2022 (Software Engineer):** Developed unsupervised, continual learning framework on Twitch Streaming data. Framework allows for Machine Learning models developed by Twitch to be continuously and intelligently updated on new streams such that a model always stays up to date, learning new representations without forgetting old ones.
+- **2022 (Applied Science):** Developed unsupervised, continual learning framework on Twitch Streaming data. Framework allows for Machine Learning models developed by Twitch to be continuously and intelligently updated on new streams such that a model always stays up to date, learning new representations without forgetting old ones.
 
 - **2021 Fall (Software Engineer):** Designed & developed an end-to-end, real-time Media-Analysis backend service integrated with both other AWS services and my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content. Service is in production!
 
-- **2021 Summer (Software Engineer):** Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%.
+- **2021 Summer (Applied Science):** Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%.
 
 ## Undergraduate Research Intern 💻
 
