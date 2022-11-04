@@ -33,8 +33,10 @@ Most recently I've become passionate about Machine Learning through joining [Twi
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
   - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.  
     **[Published in JMIR 2022]**.
-  - Project 2: Novel Facial Emotion Recognition Dataset, "TikTok for Good: Creating a Diverse Emotion Expression Database".  
+  - Project 2: Novel Facial Emotion Recognition Dataset: "TikTok for Good: Creating a Diverse Emotion Expression Database".  
     **[Published at CVPR 2022]**.
+    Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.  
+    **[Published at AAAI Student Abstract 2023]**
 
 ## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
 
@@ -55,8 +57,11 @@ Most recently I've become passionate about Machine Learning through joining [Twi
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](pub1)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
-_JMIR 2022._  
-[Processing: Email me for access to pdf.]
+_JMIR 2022._
+
+<!-- [Processing: Email me for access to pdf.] -->
+
+[[pdf]](./images/AAAI-23.pdf)
 
 <img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'>
 
@@ -69,7 +74,7 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 
 [Loss Weighting Strategies for Latent Negative Transfer](pub2)  
 Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
-_arXiv 2022 (Student Abstract)_  
+_AAAI 2023(Student Abstract)_  
 [Processing: Email me for access to pdf.]
 
 <img src="/images/affwild_model.png" alt='' width='300' height='200'>
