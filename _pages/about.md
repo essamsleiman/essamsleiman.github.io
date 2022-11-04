@@ -57,11 +57,8 @@ Most recently I've become passionate about Machine Learning through joining [Twi
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](pub1)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
-_JMIR 2022._
-
-<!-- [Processing: Email me for access to pdf.] -->
-
-[[pdf]](./images/AAAI-23.pdf)
+_JMIR 2022._  
+[Processing: Email me for access to pdf.]
 
 <img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'>
 
@@ -75,7 +72,7 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 [Loss Weighting Strategies for Latent Negative Transfer](pub2)  
 Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
 _AAAI 2023(Student Abstract)_  
-[Processing: Email me for access to pdf.]
+[[pdf]](./images/AAAI-23.pdf)
 
 <img src="/images/affwild_model.png" alt='' width='300' height='200'>
 
