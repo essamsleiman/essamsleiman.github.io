@@ -55,10 +55,10 @@ Most recently I've become passionate about Machine Learning through joining [Twi
 
 # Publications
 
-[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](pub1)  
+[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings]("./images/jmir-22.pdf")  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
 _JMIR 2022._  
-[Processing: Email me for access to pdf.]
+[[pdf]](./images/jmir-22.pdf)
 
 <img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'>
 
