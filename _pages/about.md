@@ -35,7 +35,7 @@ Most recently I've become passionate about Machine Learning through joining [Twi
     **[Published in JMIR 2022]**.
   - Project 2: Novel Facial Emotion Recognition Dataset: "TikTok for Good: Creating a Diverse Emotion Expression Database".  
     **[Published at CVPR 2022]**.
-    Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.  
+  - Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.  
     **[Published at AAAI Student Abstract 2023]**
 
 ## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
@@ -69,7 +69,7 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 
 <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'>
 
-[Loss Weighting Strategies for Latent Negative Transfer](pub2)  
+[Loss Weighting Strategies for Latent Negative Transfer](./images/AAAI-23.pdf)  
 Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
 _AAAI 2023 (Student Abstract)_  
 [[pdf]](./images/AAAI-23.pdf)
