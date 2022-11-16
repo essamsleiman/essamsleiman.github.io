@@ -69,7 +69,7 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 
 <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'>
 
-[Loss Weighting Strategies for Latent Negative Transfer](./images/AAAI-23.pdf)  
+[Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.](./images/AAAI-23.pdf)  
 Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
 _AAAI 2023 (Student Abstract)_  
 [[pdf]](./images/AAAI-23.pdf)
