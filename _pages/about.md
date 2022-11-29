@@ -72,7 +72,7 @@ _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._
 [Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.](https://arxiv.org/abs/2211.12999)  
 Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
 _AAAI 2023 (Student Abstract)_  
-[[pdf]](./images/AAAI-23.pdf)
+<!-- [[pdf]](./images/AAAI-23.pdf) -->
 
 <img src="/images/affwild_model.png" alt='' width='300' height='200'>
 
