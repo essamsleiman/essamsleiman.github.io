@@ -34,7 +34,7 @@ Most recently I've become passionate about Machine Learning through joining [Twi
   - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.  
     **[Published in JMIR 2022]**.
   - Project 2: Novel Facial Emotion Recognition Dataset: "TikTok for Good: Creating a Diverse Emotion Expression Database".  
-    **[Published at CVPR 2022]**.
+    **[Published at CVPRW 2022]**.
   - Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.  
     **[Published at AAAI Student Abstract 2023]**
 
