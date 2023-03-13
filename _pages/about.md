@@ -27,6 +27,8 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
 - **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
 
   - Topic: Computer Vision, Self-Supervised Learning, & Adversarial Robustness
+  - Project 1: SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers.
+    **[In Subission in ICCV 2023]**.
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
   - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.  
@@ -36,7 +38,7 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
   - Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.  
     **[Published at AAAI Student Abstract 2023]**
 
-## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
+<!-- ## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
 
 - UC Davis student organization that builds software for high-growth startups
 - Cofounder/President where I grew organization from 7 members to 30+ within a year and which now has grown into 60+ members
@@ -49,7 +51,7 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
 - A web app which simplifies the way sales representatives schedule meetings
 - As Co-Founder/CTO, I led development of full-stack web application using React.js, Node.js, MongoDB, GCP, & AWS
 - Communicated with customers regularly for feedback & implemented necessary improvements
-- Released application as Beta, but eventually halted the project as we struggled to find product-market fit. Learned a lot along the process
+- Released application as Beta, but eventually halted the project as we struggled to find product-market fit. Learned a lot along the process -->
 
 # Publications
 
