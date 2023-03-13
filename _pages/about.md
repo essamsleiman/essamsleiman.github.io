@@ -78,7 +78,7 @@ _AAAI 2023 (Student Abstract)_
 <!-- <img src="/images/affwild_model.png" alt='' width='300' height='200'> -->
 
 [Continually Learning Self-Supervised Image Embeddings](pub2)  
-**Essam Sleiman**, Linda Liu, Ruth Toner, Saad Ali <br>
+**Essam Sleiman**, Xiangbo Li, Saad Ali, Lukas Tencer <br>
 _2022_ [Processing: Email me for access to pdf.]
 
 <!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
