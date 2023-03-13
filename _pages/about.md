@@ -10,9 +10,7 @@ redirect_from:
 
 Hi! 👋 I'm a 4th year computer science student at UC Davis with a broad interest in computer vision & machine learning and how they can be applied to solve important societal problems.
 
-Ever since I was a kid, I have been extremely excited about technology and how it can be used to solve the problems around me. Motivated by this goal, I co-founded [Komma](https://github.com/essamsleiman/komma-web/) as the CTO with three of my classmates in my freshman year of college with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building features to solve customer problems, I became the Founding President of [Codelab](https://codelabdavis.com/), a UC Davis student-run software and design agency with 60+ members (the largest CS club at UC Davis), where we consult software projects for tech startups.
-
-Most recently I've become passionate about Machine Learning through joining [Twitch/Amazon](https://www.twitch.tv/) for three internships as an ML Engineer where I worked on unsupervised and continual visual representation learning on streaming video data and conducting undergraduate ML research at UC Davis and Stanford University focused on multi-modal representation Learning and applications of ML in healthcare, respectively.
+I have been conducting undergraduate ML research at UC Davis and Stanford University focused on self-supervised representation Learning, adversarial robustness, and applications of ML in healthcare. I also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on unsupervised and continual visual representation learning on streaming video data.
 
 # Experience
 
@@ -28,7 +26,7 @@ Most recently I've become passionate about Machine Learning through joining [Twi
 
 - **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
 
-  - Topic: Self-Supervised Learning, Multi-Modal Representation Learning, & Action Recognition
+  - Topic: Computer Vision, Self-Supervised Learning, & Adversarial Robustness
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
   - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.  
@@ -55,7 +53,10 @@ Most recently I've become passionate about Machine Learning through joining [Twi
 
 # Publications
 
-[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings]("./images/jmir-22.pdf")  
+<!-- [SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)
+_In Submission: ICCV 2023._   -->
+
+[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
 _JMIR 2022._  
 [[pdf]](./images/jmir-22.pdf)
