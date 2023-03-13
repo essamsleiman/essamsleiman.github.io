@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! 👋 I'm a 4th year computer science student at UC Davis with a broad interest in computer vision & machine learning and how they can be applied to solve important societal problems.
 
-I have been conducting undergraduate ML research at UC Davis and Stanford University focused on self-supervised representation Learning, adversarial robustness, and applications of ML in healthcare. I also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on unsupervised and continual visual representation learning on streaming video data.
+I am an undergraduate research assistant at UC Davis focused on self-supervised representation Learning and adversarial robustness. Previously I worked on applications of ML in healthcare at Stanford. I also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on unsupervised and continual visual representation learning on streaming video data.
 
 # Experience
 
@@ -54,7 +54,7 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
 
 # Publications
 
-[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)
+[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)  
 _In Submission: ICCV 2023._
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
