@@ -55,19 +55,17 @@ I am an undergraduate research assistant at UC Davis focused on self-supervised 
 # Publications
 
 [SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)  
-_In Submission: ICCV 2023._
+_In Submission: ICCV 2023._ [Processing: Email me for access to pdf.]
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
-_JMIR 2022._  
-[[pdf]](./images/jmir-22.pdf)
+_JMIR 2022._ [[pdf]](./images/jmir-22.pdf)
 
 <!-- <img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'> -->
 
 [TikTok for Good: Creating a Diverse Emotion Expression Database](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Surabhi_TikTok_for_Good_Creating_a_Diverse_Emotion_Expression_Database_CVPRW_2022_paper.html)  
 Saimourya Surabhi,...,**Essam Sleiman**, Dennis P. Wall <br>
-_Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._  
-[[pdf]](./images/CVPRW.pdf)
+_Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._ [[pdf]](./images/CVPRW.pdf)
 
 <!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
 
@@ -81,8 +79,7 @@ _AAAI 2023 (Student Abstract)_
 
 [Continually Learning Self-Supervised Image Embeddings](pub2)  
 **Essam Sleiman**, Linda Liu, Ruth Toner, Saad Ali <br>
-_2022_  
-[Processing: Email me for access to pdf.]
+_2022_ [Processing: Email me for access to pdf.]
 
 <!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
 
