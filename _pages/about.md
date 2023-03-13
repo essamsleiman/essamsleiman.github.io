@@ -24,7 +24,7 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
 
 ## Undergraduate Research Intern 💻
 
-- **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/) in Computer Vision, Self-Supervised Learning, & Adversarial Robustness
+- **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
 
   - Project 1: SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers.  
     **[In Subission in ICCV 2023]**.
@@ -54,22 +54,22 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
 
 # Publications
 
-<!-- [SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)
-_In Submission: ICCV 2023._   -->
+[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)
+_In Submission: ICCV 2023._
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
 _JMIR 2022._  
 [[pdf]](./images/jmir-22.pdf)
 
-<img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'>
+<!-- <img src="/images/asd_classification_pipeline.png" alt='' width='200' height='200'> -->
 
 [TikTok for Good: Creating a Diverse Emotion Expression Database](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Surabhi_TikTok_for_Good_Creating_a_Diverse_Emotion_Expression_Database_CVPRW_2022_paper.html)  
 Saimourya Surabhi,...,**Essam Sleiman**, Dennis P. Wall <br>
 _Computer Vision and Pattern Recognition (CVPR) Workshop, 2022._  
 [[pdf]](./images/CVPRW.pdf)
 
-<img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'>
+<!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
 
 [Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.](https://arxiv.org/abs/2211.12999)  
 Anish Lakkapragada, **Essam Sleiman**, Mourya Surabhi, Dennis P. Wall <br>
@@ -77,7 +77,7 @@ _AAAI 2023 (Student Abstract)_
 
 <!-- [[pdf]](./images/AAAI-23.pdf) -->
 
-<img src="/images/affwild_model.png" alt='' width='300' height='200'>
+<!-- <img src="/images/affwild_model.png" alt='' width='300' height='200'> -->
 
 [Continually Learning Self-Supervised Image Embeddings](pub2)  
 **Essam Sleiman**, Linda Liu, Ruth Toner, Saad Ali <br>
