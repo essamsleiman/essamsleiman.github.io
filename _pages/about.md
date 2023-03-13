@@ -24,10 +24,9 @@ I have been conducting undergraduate ML research at UC Davis and Stanford Univer
 
 ## Undergraduate Research Intern 💻
 
-- **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
+- **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/) in Computer Vision, Self-Supervised Learning, & Adversarial Robustness
 
-  - Topic: Computer Vision, Self-Supervised Learning, & Adversarial Robustness
-  - Project 1: SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers.
+  - Project 1: SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers.  
     **[In Subission in ICCV 2023]**.
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
