@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I'm a 4th year computer science student at UC Davis with a broad interest in computer vision & machine learning and how they can be applied to solve important societal problems.
+Hi! 👋 I'm a 1st year Masters in CS student at Harvard University with an interest in deep learning, computer vision & natural language processing.
 
-I am an undergraduate research assistant at UC Davis focused on self-supervised representation Learning and adversarial robustness. Previously I worked on applications of ML in healthcare at Stanford. I also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on unsupervised and continual visual representation learning on streaming video data.
+I am research assistant focused on self-supervised representation Learning, vision-language learning, and adversarial robustness. Previously I worked in deep learning for healthcare at Stanford and also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on self-supervised and continual visual representation learning on streaming video data.
 
 # Experience
 
 ## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
 
-- **2022 (Applied Science):** Developed unsupervised, continual learning framework on Twitch Streaming data. Framework allows for Machine Learning models developed by Twitch to be continuously and intelligently updated on new streams such that a model always stays up to date, learning new representations without forgetting old ones.
+- **2022 (Applied Science):** Developed unsupervised, continual learning framework on Twitch Streaming data. Framework allows for ML models developed by Twitch to continuously and intelligently update on new streams such that a model learns new representations without forgetting old ones.
 
-- **2021 Fall (Software Engineer):** Designed & developed an end-to-end, real-time Media-Analysis backend service integrated with both other AWS services and my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content. Service is in production!
+- **2021 Fall (Software Engineer):** Designed & developed an end-to-end, real-time Media-Analysis backend service integrated with both other AWS services and my trained ML model to moderate Twitch’s 9.36M+ streamers’ content. Service is in production!
 
 - **2021 Summer (Applied Science):** Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%.
 

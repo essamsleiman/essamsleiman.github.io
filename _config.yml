@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Essam Sleiman"
   avatar: "headshot_final.jpg"
-  bio: "4th Year Computer Science  Student"
-  location: "University of California, Davis"
+  bio: "1st Year MS CS Student"
+  location: "Harvard University"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=mHRMvnUAAAAJ&hl=en&oi=ao"
-  email: "esleiman@ucdavis.edu"
+  email: "esleiman@g.harvard.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
