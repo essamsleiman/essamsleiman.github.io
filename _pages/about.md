@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! 👋 I'm a 1st year Masters in CS student at Harvard University with an interest in deep learning, computer vision & natural language processing.
 
-I am research assistant focused on self-supervised representation Learning, vision-language learning, and adversarial robustness. Previously I worked in deep learning for healthcare at Stanford and also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on self-supervised and continual visual representation learning on streaming video data.
+I am a research assistant focused on self-supervised representation Learning, vision-language learning, and adversarial robustness. Previously I worked in deep learning for healthcare at Stanford and also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on self-supervised and continual visual representation learning on streaming video data.
 
 # Experience
 
