@@ -26,7 +26,7 @@ I am a research assistant focused on self-supervised representation Learning, vi
 
 - **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
 
-  - Project 1: Adversarial robustness for vision Transformers
+  - Project 1: Adversarial robustness for vision transformers
   - Project 2: Improving compositional reasoning of vision-language models
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
