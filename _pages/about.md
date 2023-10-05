@@ -54,7 +54,7 @@ I am a research assistant focused on self-supervised representation Learning, vi
 
 # Publications
 
-[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)  
+[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](https://arxiv.org/pdf/2310.02544.pdf)  
 KL Navaneet*, Soroush Abbasi Koohpayegani*, **Essam Sleiman\***, Hamed Pirsiavash
 _arXiv._ [[link]](https://arxiv.org/abs/2310.02544)
 
