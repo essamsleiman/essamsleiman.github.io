@@ -26,7 +26,8 @@ I am a research assistant focused on self-supervised representation Learning, vi
 
 - **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
 
-  - Project 1: SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers.
+  - Project 1: Adversarial robustness for vision Transformers
+  - Project 2: Improving compositional reasoning of vision-language models
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
   - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.  
@@ -54,7 +55,7 @@ I am a research assistant focused on self-supervised representation Learning, vi
 # Publications
 
 [SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)  
-In Submission. [Processing: Email me for access to pdf.]
+arXiv. [[link]](https://arxiv.org/abs/2310.02544)
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
