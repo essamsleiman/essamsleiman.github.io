@@ -54,7 +54,7 @@ I am a research assistant focused on self-supervised representation Learning, vi
 # Publications
 
 [SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](pub2)  
-\_In Submission. [Processing: Email me for access to pdf.]
+In Submission. [Processing: Email me for access to pdf.]
 
 [Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
