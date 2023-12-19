@@ -14,7 +14,7 @@ I do ml research working with llms and large vision-language models. I previousl
 
 # Experience
 
-- **3x applied sci and eng intern at [twitch/amazon](https://www.twitch.tv/)** where i built twitch's first ml-based video analysis platform and trained their first twitch-wide backbone vision model. work went into production and currently in use. only undergrad on the ml sci team.
+- **3x applied sci and eng intern at [twitch/amazon](https://www.twitch.tv/)** where i built thier first ml-based video analysis platform and trained their first twitch-wide backbone vision model. work went into production and currently in use. only undergrad on the ml sci team.
 
 <!-- ## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
 
