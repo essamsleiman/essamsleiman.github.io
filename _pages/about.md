@@ -16,6 +16,9 @@ I do ml research working with llms and large vision-language models. I previousl
 
 - **Research intern at harvard & mit** working on nlp and vision-language learning.
 - **3x applied sci and eng intern at [twitch/amazon](https://www.twitch.tv/)** where I built their first ml-based video analysis platform and twitch-wide backbone vision model. Work went into production and currently in use. Only undergrad on the ml sci team.
+  - Developed unsupervised, continual learning framework on Twitch Streaming data. Framework allows for ML models developed by Twitch to continuously and intelligently update on new streams such that a model learns new representations without forgetting old ones.
+  - Designed & developed an end-to-end, real-time Media-Analysis backend service integrated with both other AWS services and my trained ML model to moderate Twitch’s 9.36M+ streamers’ content. Service is in production!
+  - Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%.
 - **Research intern at [uc davis](https://web.cs.ucdavis.edu/~hpirsiav/)** working in multimodel representation learning and adversarial robustness.
 - **Research intern at [stanford](https://ai.stanford.edu/)** where I worked on ai for healthcare.
 - **Co-Founder/CTO at [komma](https://github.com/essamsleiman/komma-web)** where I led full-stack development.
