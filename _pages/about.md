@@ -58,14 +58,14 @@ I do ml research working with llms and large vision-language models. I previousl
 - As Co-Founder/CTO, I led development of full-stack web application using React.js, Node.js, MongoDB, GCP, & AWS
 - Communicated with customers regularly for feedback & implemented necessary improvements
 - Released application as Beta, but eventually halted the project as we struggled to find product-market fit. Learned a lot along the process -->
-
+<!--
 # Publications
 
-[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](https://arxiv.org/pdf/2310.02544.pdf)  
+[SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](https://arxiv.org/pdf/2310.02544.pdf)
 KL Navaneet\*, Soroush Abbasi Koohpayegani\*, **Essam Sleiman\***, Hamed Pirsiavash <br>
 _arXiv._ [[link]](https://arxiv.org/abs/2310.02544)
 
-[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)  
+[Deep Learning-Based Autism Spectrum Disorder Detection Using Emotion Features From Video Recordings](./images/jmir-22.pdf)
 **Essam Sleiman**; Onur Cezmi Mutlu; Saimourya Surabhi; Arman Husic; Aaron Kline; Peter Washington; Dennis P. Wall <br>
 _JMIR 2022._ [[pdf]](./images/jmir-22.pdf)
 
@@ -89,7 +89,7 @@ _AAAI 2023 (Student Abstract)_
 **Essam Sleiman**, Xiangbo Li, Saad Ali, Lukas Tencer <br>
 _2022_ [Processing: Email me for access to pdf.]
 
-<!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
+<img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> -->
 
 <br>
 <br>
