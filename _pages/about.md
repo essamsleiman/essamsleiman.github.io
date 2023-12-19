@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I'm a 1st year Masters in CS student at Harvard University with an interest in deep learning, computer vision & natural language processing.
+Hi! 👋 I'm Essam, currently a Masters student at Harvard studying CS. I'm interested in machine learning, natural language processing, and multi-modal learning.
 
-I am a research assistant focused on self-supervised representation Learning, vision-language learning, and adversarial robustness. Previously I worked in deep learning for healthcare at Stanford and also spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist where I worked on self-supervised and continual visual representation learning on streaming video data.
+I do ml research working with llms and large vision-language models. I previously spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist intern where I worked on their ML team and built their first ML-based Video Analaysis platform.
 
 # Experience
 
