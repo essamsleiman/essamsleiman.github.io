@@ -14,13 +14,15 @@ I do ml research working with llms and large vision-language models. I previousl
 
 # Experience
 
-## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
+- 3x applied sci and eng intern at [twitch/amazon](https://www.twitch.tv/) where i built twitch's first ml-based video analysis platform and trained their first twitch-wide backbone vision model. only undergrad on the ml sci team.
+
+<!-- ## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
 
 - **2022 (Applied Science):** Developed unsupervised, continual learning framework on Twitch Streaming data. Framework allows for ML models developed by Twitch to continuously and intelligently update on new streams such that a model learns new representations without forgetting old ones.
 
 - **2021 Fall (Software Engineer):** Designed & developed an end-to-end, real-time Media-Analysis backend service integrated with both other AWS services and my trained ML model to moderate Twitch’s 9.36M+ streamers’ content. Service is in production!
 
-- **2021 Summer (Applied Science):** Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%.
+- **2021 Summer (Applied Science):** Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%. -->
 
 ## Undergraduate Research Intern 💻
 
