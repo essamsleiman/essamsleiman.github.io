@@ -29,7 +29,7 @@ I do ml research working with llms and large vision-language models. I previousl
 
 - **2021 Summer (Applied Science):** Developed a Twitch content representation Image Embedding trained using self-supervised learning. Improved prior method's performance on downstream tasks such as Game Stream Classification by ~10%. -->
 
-## Undergraduate Research Intern 💻
+<!-- ## Undergraduate Research Intern 💻
 
 - **Research @ UC Davis** under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/)
 
@@ -37,12 +37,12 @@ I do ml research working with llms and large vision-language models. I previousl
   - Project 2: Improving compositional reasoning of vision-language models
 
 - **Research @ Stanford University** under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/).
-  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.  
+  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings.
     **[Published in JMIR 2022]**.
-  - Project 2: Novel Facial Emotion Recognition Dataset: "TikTok for Good: Creating a Diverse Emotion Expression Database".  
+  - Project 2: Novel Facial Emotion Recognition Dataset: "TikTok for Good: Creating a Diverse Emotion Expression Database".
     **[Published at CVPRW 2022]**.
-  - Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.  
-    **[Published at AAAI Student Abstract 2023]**
+  - Project 3: Mitigating Negative Transfer in Multi-Task Learning with Exponential Moving Average Loss Weighting Strategies.
+    **[Published at AAAI Student Abstract 2023]** -->
 
 <!-- ## [Codelab](https://codelabdavis.com/) (Cofounder/President) 🏫
 
