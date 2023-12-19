@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! 👋 I'm Essam, currently a Masters student at Harvard studying CS. I'm interested in machine learning, natural language processing, and multi-modal learning.
 
-I do ml research working with llms and large vision-language models. I previously spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist intern where I worked on their ML team and built their first ML-based Video Analaysis platform.
+I do ml research working with llms and large vision-language models. I previously spent some time at [Twitch/Amazon](https://www.twitch.tv/) as an Applied Scientist intern where I worked on their ML team and built their first ML-based Video Analysis platform.
 
 # Experience
 
