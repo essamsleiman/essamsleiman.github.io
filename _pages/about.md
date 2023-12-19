@@ -14,7 +14,7 @@ I do ml research working with llms and large vision-language models. I previousl
 
 # Experience
 
-- **Research intern at harvard & mit** working on nlp and vision-language learning.
+- **Research intern at [harvard](https://www.harvard.edu/) & [mit](https://www.mit.edu)** working on nlp and vision-language learning.
 - **3x applied sci and eng intern at [twitch/amazon](https://www.twitch.tv/)** where I built their first ml-based video analysis platform and trained their first twitch-wide backbone vision model. Work went into production and currently in use. Only undergrad on the ml sci team.
 - **Research intern at [uc davis](https://web.cs.ucdavis.edu/~hpirsiav/)** working in multimodel representation learning and adversarial robustness.
 - **Research intern at [stanford](https://ai.stanford.edu/)** where I worked on ai for healthcare.
