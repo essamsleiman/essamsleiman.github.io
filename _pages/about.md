@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! 👋 I'm essam, currently a masters student at harvard studying cs. I'm interested in machine learning, natural language processing, and multi-modal learning.
 
-I do ml research working with llms and large vision-language models. I previously spent some time at [twitch](https://www.twitch.tv/) as an applied scientist intern where I worked on their ml team and trained large vision models, at [amazon/aws](https://aws.amazon.com/ivs/) and built their first ml-based video understanding platform, worked on a [startup](https://github.com/essamsleiman/komma-web) to automate meeting scheduling, and ran a [student org](https://www.codelabdavis.com/) doing software consulting for tech companies.
+I do ml research working with llms and large vision-language models. Previously, I spent some time at [twitch](https://www.twitch.tv/) as an applied scientist intern where I worked on their ml team and trained large vision models, at [amazon/aws](https://aws.amazon.com/ivs/) where I built their first ml-based video understanding platform, worked on a [startup](https://github.com/essamsleiman/komma-web) to automate meeting scheduling, and ran a [student org](https://www.codelabdavis.com/) doing software consulting for tech companies.
 
 # Industry/Research Experience
 
