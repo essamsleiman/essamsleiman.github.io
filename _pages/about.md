@@ -12,7 +12,7 @@ Hi! 👋 I'm essam, currently a masters student at harvard studying cs. I'm inte
 
 I do ml research working with llms and large vision-language models. I previously spent some time at [twitch/amazon](https://www.twitch.tv/) as an applied scientist intern where I worked on their ml team and built their first ml-based video analysis platform, worked on a [startup](https://github.com/essamsleiman/komma-web) to automate meeting scheduling and ran a [student org](https://www.codelabdavis.com/) doing software consulting for tech companies.
 
-# Experience
+# Industry/Research Experience
 
 - **Research intern at [harvard](https://www.harvard.edu/) & [mit](https://www.mit.edu)** working on nlp and vision-language learning.
 - **3x applied sci and eng intern at [twitch/amazon](https://www.twitch.tv/)** where I built their first ml-based video analysis platform and trained their first twitch-wide backbone vision model. Work went into production and currently in use. Only undergrad on the ml sci team.
@@ -91,5 +91,5 @@ _2022_ [Processing: Email me for access to pdf.] -->
 
 <!-- <img src="/images/tiktok_paper_img.png" alt='' width='250' height='200'> --> -->
 
-<br>
-<br>
+<!-- <br>
+<br> -->
