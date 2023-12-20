@@ -21,7 +21,7 @@ I do ml research working with llms and large vision-language models. I previousl
 - **Co-Founder/CTO at [komma](https://github.com/essamsleiman/komma-web)** where I led full-stack development.
 - **Co-Founder/President at [codelab](https://www.codelabdavis.com/)** the largest cs student org with 100+ members where we build software for tech companies.
 
-# Publications
+# Projects & Publications
 
 [SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers](https://arxiv.org/pdf/2310.02544.pdf)
 KL Navaneet\*, Soroush Abbasi Koohpayegani\*, **Essam Sleiman\***, Hamed Pirsiavash <br>
