@@ -20,6 +20,11 @@ I do ml research working with llms and large vision-language models. I previousl
 - **Research intern at [stanford](https://ai.stanford.edu/)** where I worked on ai for healthcare.
 - **Co-Founder/CTO at [komma](https://github.com/essamsleiman/komma-web)** where I led full-stack development.
 - **Co-Founder/President at [codelab](https://www.codelabdavis.com/)** the largest cs student org with 100+ members where we build software for tech companies.
+
+# Contact
+
+Feel free to reach out at: esleiman@g.harvard.edu
+
 <!--
 
 # Projects & Publications
