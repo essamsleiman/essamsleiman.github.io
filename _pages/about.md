@@ -23,7 +23,7 @@ I do ml research working with llms and large vision-language models. I previousl
 
 # Contact
 
-Feel free to reach out at: esleiman@g.harvard.edu
+I love to meet new people! If you're working on something cool or want to chat free to reach out at esleiman@g.harvard.edu.
 
 <!--
 
