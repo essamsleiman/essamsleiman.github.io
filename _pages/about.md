@@ -15,8 +15,8 @@ I do ml research working with llms and large vision-language models. I previousl
 # Industry/Research Experience
 
 - **Research intern at [harvard](https://www.harvard.edu/) & [mit](https://www.mit.edu)** working on nlp and vision-language learning.
-- **2x applied sci intern at [twitch](https://www.twitch.tv/)** where I trained their first twitch-wide backbone vision model. Developed a continual learning framework for online model training. Improved downstream task accuracy across the board by 10%+. Only undergrad on the ml sci team.
-- **software dev eng intern at [amazon/aws](https://aws.amazon.com/ivs/)** where I built AWS IVS's first ml-based video understanding platform. Service in production.
+- **2x applied sci intern at [twitch](https://www.twitch.tv/)** where I trained their first twitch-wide backbone vision model. Developed a continual learning framework for unsupervised, online, model training. Improved downstream task accuracy across the board by 10%+. Only undergrad on the ml sci team.
+- **software dev eng intern at [amazon/aws](https://aws.amazon.com/ivs/)** where I built aws ivs's first ml-based video understanding platform. Service in production.
 - **Research intern at [uc davis](https://web.cs.ucdavis.edu/~hpirsiav/)** working in multimodel representation learning and adversarial robustness.
 - **Research intern at [stanford](https://ai.stanford.edu/)** where I worked on ai for healthcare.
 - **Co-Founder/CTO at [komma](https://github.com/essamsleiman/komma-web)** where I led full-stack development.
