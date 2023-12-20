@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! 👋 I'm essam, currently a masters student at harvard studying cs. I'm interested in machine learning, natural language processing, and multi-modal learning.
 
-I do ml research working with llms and large vision-language models. I previously spent some time at [twitch/amazon](https://www.twitch.tv/) as an applied scientist intern where I worked on their ml team and built their first ml-based video analysis platform.
+I do ml research working with llms and large vision-language models. I previously spent some time at [twitch/amazon](https://www.twitch.tv/) as an applied scientist intern where I worked on their ml team and built their first ml-based video analysis platfor, worked on a [startup](https://github.com/essamsleiman/komma-web) to automate meeting scheduling and ran a [student org](https://www.codelabdavis.com/) doing software consulting for tech companies.
 
 # Experience
 
@@ -19,7 +19,7 @@ I do ml research working with llms and large vision-language models. I previousl
 - **Research intern at [uc davis](https://web.cs.ucdavis.edu/~hpirsiav/)** working in multimodel representation learning and adversarial robustness.
 - **Research intern at [stanford](https://ai.stanford.edu/)** where I worked on ai for healthcare.
 - **Co-Founder/CTO at [komma](https://github.com/essamsleiman/komma-web)** where I led full-stack development.
-- **Co-Founder/President at [codelab](https://www.codelabdavis.com/b)** the largest cs student org with 100+ members where we build software for tech startups.
+- **Co-Founder/President at [codelab](https://www.codelabdavis.com/)** the largest cs student org with 100+ members where we build software for tech companies.
 
 <!-- ## [Twitch/Amazon](https://www.twitch.tv/) 3X Internship 📺
 
