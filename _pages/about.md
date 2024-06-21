@@ -16,6 +16,7 @@ Previously, I did ml research working on improving compositional reasoning of ll
 
 <!-- - **Research intern at [harvard](https://www.harvard.edu/) & [mit](https://www.mit.edu)** working on nlp and vision-language learning. -->
 
+- **Founder at stealth startup** working on ai agents.
 - **Research intern at [Harvard](https://www.harvard.edu/)** working on LLM robustness, generalization, and trustworthiness.
 - **Applied scientist at [twitch](https://www.twitch.tv/)** where I trained their first twitch-wide backbone vision model. Developed a continual learning framework for unsupervised, online model training. Improved downstream task accuracy across the board by 10%+.
 - **Software dev eng at [amazon/aws](https://aws.amazon.com/ivs/)** where I built aws ivs's first ml-based video understanding platform. Service in production.
