@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 I'm essam, currently a masters student at harvard studying cs. I'm interested in machine learning, natural language processing, and multi-modal learning.
+Hi! 👋 I'm essam, MS student at harvard studying cs and interested in machine learning, natural language processing, and multi-modal learning. Currently working in the ai agent space.
 
-I do ml research working on improving compositional reasoning of llms and large vision-language models. Previously, I spent some time at [twitch](https://www.twitch.tv/) as an applied scientist intern where I worked on their ml team and trained large vision models, at [amazon/aws](https://aws.amazon.com/ivs/) where I built their first ml-based video understanding platform, worked on a [startup](https://github.com/essamsleiman/komma-web) to automate meeting scheduling, and ran a [student org](https://www.codelabdavis.com/) doing software consulting for tech startups.
+Previously, I did ml research working on improving compositional reasoning of llms and large vision-language models, spent some time at [twitch](https://www.twitch.tv/) as an applied scientist where I worked on their ml team and trained large vision models, at [amazon/aws](https://aws.amazon.com/ivs/) where I built their first ml-based video understanding platform, worked on a [startup](https://github.com/essamsleiman/komma-web) to automate meeting scheduling, and ran a [student org](https://www.codelabdavis.com/) doing software consulting for tech startups.
 
 # Industry/Research Experience
 
 <!-- - **Research intern at [harvard](https://www.harvard.edu/) & [mit](https://www.mit.edu)** working on nlp and vision-language learning. -->
 
 - **Research intern at [Harvard](https://www.harvard.edu/)** working on LLM robustness, generalization, and trustworthiness.
-- **2x Applied sci intern at [twitch](https://www.twitch.tv/)** where I trained their first twitch-wide backbone vision model. Developed a continual learning framework for unsupervised, online model training. Improved downstream task accuracy across the board by 10%+. Only undergrad on the ml sci team.
-- **Software dev eng intern at [amazon/aws](https://aws.amazon.com/ivs/)** where I built aws ivs's first ml-based video understanding platform. Service in production.
+- **Applied scientist at [twitch](https://www.twitch.tv/)** where I trained their first twitch-wide backbone vision model. Developed a continual learning framework for unsupervised, online model training. Improved downstream task accuracy across the board by 10%+.
+- **Software dev eng at [amazon/aws](https://aws.amazon.com/ivs/)** where I built aws ivs's first ml-based video understanding platform. Service in production.
 - **Research intern at [uc davis](https://web.cs.ucdavis.edu/~hpirsiav/)** working in multimodel representation learning and adversarial robustness.
 - **Research intern at [stanford](https://ai.stanford.edu/)** where I worked on ai for healthcare.
 - **Co-Founder/CTO at [komma](https://github.com/essamsleiman/komma-web)** where I led full-stack development.
