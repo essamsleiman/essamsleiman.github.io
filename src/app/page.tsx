@@ -1,11 +1,11 @@
 import { Globe } from "lucide-react";
 import Image from "next/image";
-import canvasLogo from "/essamsleiman.github.io/logo/canvas_logo.png";
-import harvardLogo from "/essamsleiman.github.io/logo/harvard_logo.png";
-import twitchLogo from "/essamsleiman.github.io/logo/twitch_logo_1.png";
-import awsLogo from "/essamsleiman.github.io/logo/aws_logo.png";
-import kommaLogo from "/essamsleiman.github.io/logo/komma_logo.svg";
-import codelabLogo from "/essamsleiman.github.io/logo/codelabdavis_logo.jpeg";
+import canvasLogo from "./logo/canvas_logo.png";
+import harvardLogo from "./logo/harvard_logo.png";
+import twitchLogo from "./logo/twitch_logo_1.png";
+import awsLogo from "./logo/aws_logo.png";
+import kommaLogo from "./logo/komma_logo.svg";
+import codelabLogo from "./logo/codelabdavis_logo.jpeg";
 
 export default function Home() {
   return (
