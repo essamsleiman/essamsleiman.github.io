@@ -1,0 +1,264 @@
+/* Removed Tailwind import since we're using plain CSS */
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --muted: #737373;
+  --border: #e5e5e5;
+  --radius: 0.5rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --muted: #a3a3a3;
+    --border: #262626;
+  }
+}
+
+html.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --muted: #a3a3a3;
+  --border: #262626;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  text-transform: lowercase;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  position: relative;
+}
+
+.header {
+  margin-bottom: 6px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 32px;
+  margin-bottom: 12px;
+  letter-spacing: -0.025em;
+  line-height: 1;
+  display: block;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  margin-top: 12px;
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 12px;
+  line-height: 1;
+}
+
+.social-links {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 24px;
+}
+
+.social-links a {
+  color: var(--foreground);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background-color: var(--background);
+  border: 1px solid var(--border);
+  transition: background-color 0.2s ease;
+}
+
+.social-links a svg {
+  width: 16px;
+  height: 16px;
+}
+
+.social-links a:hover {
+  background-color: var(--border);
+}
+
+.bio {
+  margin-bottom: 12px;
+  font-size: 16px;
+  margin-top: 0;
+}
+
+.bio p {
+  margin-bottom: 16px;
+}
+
+.bio p:last-child {
+  margin-bottom: 0;
+}
+
+.section {
+  margin-bottom: 4px;
+}
+
+.work-item {
+  border-bottom: 1px solid var(--border);
+}
+
+.work-header {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.2s ease;
+}
+
+.work-header:focus, .work-header:focus-visible {
+  background-color: var(--border);
+  border-radius: 4px;
+  padding-left: 8px;
+}
+
+.company-logo {
+  width: 26px;
+  height: 26px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  margin-right: 12px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.company-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Text fallbacks for companies without logos */
+.ucdavis {
+  background-color: #0284c7;
+  color: white;
+}
+.stanford {
+  background-color: #b91c1c;
+  color: white;
+}
+
+.company-name {
+  font-weight: 600;
+  font-size: 14px;
+  margin-right: 8px;
+}
+
+.position {
+  font-size: 14px;
+  color: var(--muted);
+  display: inline;
+}
+
+.chevron {
+  margin-left: auto;
+  color: var(--muted);
+}
+
+.chevron svg {
+  transition: transform 0.2s ease;
+}
+
+.work-details {
+  font-size: 14px;
+  padding: 0 0 16px 44px;
+  color: var(--muted);
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  transition: opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+  background: none;
+  border: none;
+  color: var(--foreground);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.theme-toggle:hover {
+  background-color: var(--border);
+}
+
+.footer {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.footer-links a {
+  color: var(--muted);
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+.copyright {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
