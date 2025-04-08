@@ -1,4 +1,0 @@
----
-permalink: /News/
-title: "News"
----
