@@ -287,7 +287,7 @@ export default function Home() {
               <Image src={awsLogo} alt="AWS" width={26} height={26} />
             </div>
             <div>
-              <span className="company-name">Amazon/AWS</span>
+              <span className="company-name">AWS</span>
               <span className="position">ML Eng Intern</span>
             </div>
             <div className="chevron">
