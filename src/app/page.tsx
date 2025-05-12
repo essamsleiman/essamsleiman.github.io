@@ -401,7 +401,7 @@ export default function Home() {
             </div>
           </div>
           <div className="work-details">
-            felt like there wasn't a good builder community here, so founded and
+            noticed there wasn't a strong builder community here, so founded and
             led{" "}
             <a
               href="https://www.codelabdavis.com/"
