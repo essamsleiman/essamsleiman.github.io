@@ -134,12 +134,12 @@ export default function Home() {
         </p>
         <p>
           {" "}
-          In high school, I built a gloves distribution business making $100K in
-          revenue selling to local businesses through cold calling and later
-          ebay.
+          Back in high school, I built a gloves distribution business making 6
+          figures in revenue selling to local businesses through cold calling
+          and ebay.
         </p>
         <p>
-          In college, I built AI systems at Twitch and AWS, co-founded{" "}
+          Later in college, I built AI systems at Twitch and AWS, co-founded{" "}
           <a
             href="https://github.com/essamsleiman/komma-web"
             target="_blank"
@@ -147,7 +147,7 @@ export default function Home() {
           >
             Komma
           </a>{" "}
-          (sales automation) and started{" "}
+          (sales automation), and started{" "}
           <a
             href="https://www.codelabdavis.com/"
             target="_blank"
@@ -155,23 +155,7 @@ export default function Home() {
           >
             CodeLab
           </a>
-          , a builder student club working with companies like{" "}
-          <a
-            href="https://www.snapchat.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Snap
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://www.reddit.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Reddit
-          </a>
-          .
+          , a student builder club (now 150+ members)
         </p>
 
         <p>
@@ -443,10 +427,10 @@ export default function Home() {
           </div>
           <div className="work-details">
             launched a glove distribution business in high school to support my
-            family, reaching $100K in annual revenue. sourced latex and nitrile
-            gloves and sold to SMBs including mechanic shops, medical clinics,
-            and dental offices. prospected using yellow pages, cold called,
-            delivered products, and later expanded to selling on ebay.
+            family, reaching 6 figures in annual revenue. sourced latex and
+            nitrile gloves and sold to SMBs including mechanic shops, medical
+            clinics, and dental offices. prospected using yellow pages, cold
+            called, delivered products, and later expanded to selling on ebay.
           </div>
         </div>
       </div>
