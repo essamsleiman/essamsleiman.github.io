@@ -388,8 +388,8 @@ export default function Home() {
               CodeLab
             </a>
             , which has become the largest builder club at uc davis with now
-            over 150 members. we build internal tools for students and software
-            for tech companies like Snapchat and Reddit.{" "}
+            over 150 members. we build software for both students and tech
+            companies like Snapchat and Reddit.{" "}
           </div>
         </div>
 
