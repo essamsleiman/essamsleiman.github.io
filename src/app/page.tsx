@@ -140,14 +140,7 @@ export default function Home() {
         </p>
         <p>
           Later in college, I built AI systems at Twitch and AWS, co-founded{" "}
-          <a
-            href="https://github.com/essamsleiman/komma-web"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Komma
-          </a>{" "}
-          (sales automation), and started{" "}
+          Komma (sales automation), and started{" "}
           <a
             href="https://www.codelabdavis.com/"
             target="_blank"
