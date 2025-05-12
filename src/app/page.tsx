@@ -166,7 +166,7 @@ export default function Home() {
       </div>
 
       <div className="section">
-        <h2>Work</h2>
+        <h2>Experience</h2>
 
         <div className="work-item">
           <div className="work-header">
