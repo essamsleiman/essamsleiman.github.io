@@ -419,7 +419,7 @@ export default function Home() {
             </div>
           </div>
           <div className="work-details">
-            launched a glove distribution business in high school to support my
+            started a glove distribution business in high school to support my
             family, reaching 6 figures in annual revenue. sourced latex and
             nitrile gloves and sold to SMBs including mechanic shops, medical
             clinics, and dental offices. prospected using yellow pages, cold
