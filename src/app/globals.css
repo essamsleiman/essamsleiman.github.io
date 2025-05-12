@@ -38,7 +38,7 @@ body {
   line-height: 1.5;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
 }
 
 .container {
@@ -50,6 +50,13 @@ body {
 
 .header {
   margin-bottom: 6px;
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.header-content {
+  flex: 1;
 }
 
 h1 {
@@ -218,6 +225,16 @@ a:hover {
 
 .theme-toggle:hover {
   background-color: var(--border);
+}
+
+.profile-picture {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.profile-picture img {
+  border-radius: 8px;
+  border: 2px solid var(--border);
 }
 
 .footer {
