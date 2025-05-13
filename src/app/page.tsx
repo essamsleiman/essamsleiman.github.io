@@ -130,7 +130,7 @@ export default function Home() {
           >
             Canvas AI
           </a>{" "}
-          building ai agents for customer success backed by YC.
+          building the future of Sales backed by YC.
         </p>
         <p>
           {" "}
