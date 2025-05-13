@@ -207,7 +207,7 @@ export default function Home() {
             >
               Canvas AI
             </a>{" "}
-            backed by YC. AI Agents for customer success teams.
+            backed by YC. The future of Sales.
           </div>
         </div>
 
