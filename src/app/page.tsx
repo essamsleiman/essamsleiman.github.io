@@ -152,7 +152,7 @@ export default function Home() {
         </p>
 
         <p>
-          I'm based in SF and love to play backetball, grab coffee, and hike.
+          I'm based in SF and love to play basketball, grab coffee, and hike.
           Feel free to reach out, you can find me on{" "}
           <a
             href="https://x.com/essamsleiman"
