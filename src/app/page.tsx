@@ -134,9 +134,8 @@ export default function Home() {
         </p>
         <p>
           {" "}
-          Back in high school, I built a gloves distribution business making 6
-          figures in revenue selling to local businesses through cold calling
-          and ebay.
+          Back in high school, I built a 6 figure gloves distribution business
+          selling to local businesses through cold calling and ebay.
         </p>
         <p>
           Later in college, I built AI systems at Twitch and AWS, co-founded{" "}
