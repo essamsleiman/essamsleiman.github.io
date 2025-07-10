@@ -240,7 +240,7 @@ export default function Home() {
             worked on LLMs and Vision Models. Over 100+ citations in top
             conferences like CVPR and ECCV. Check out my{" "}
             <a
-              href="https://scholar.google.com/citations?user=mHRMvnUAAAAJ&hl=en&oi=ao"
+              href="https://scholar.google.com/citations?hl=en&authuser=1&user=M8PjtQYAAAAJ"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -526,7 +526,7 @@ export default function Home() {
             GitHub
           </a>
           <a
-            href="https://scholar.google.com/citations?user=mHRMvnUAAAAJ&hl=en&oi=ao"
+            href="https://scholar.google.com/citations?hl=en&authuser=1&user=M8PjtQYAAAAJ"
             target="_blank"
             rel="noopener noreferrer"
           >
