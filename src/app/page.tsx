@@ -7,7 +7,6 @@ import awsLogo from "./logo/aws_logo.png";
 import kommaLogo from "./logo/komma_logo.svg";
 import codelabLogo from "./logo/codelabdavis_logo.jpeg";
 import davisLogo from "./logo/davis_logo.png";
-import glovesLogo from "./logo/gloves_logo.jpg";
 import profilePicture from "./logo/profile_pic.jpg";
 export default function Home() {
   return (
@@ -130,16 +129,10 @@ export default function Home() {
           >
             Canvas AI
           </a>{" "}
-          building the future of Sales backed by YC.
+          building gtm coding agents, backed by YC.
         </p>
         <p>
-          {" "}
-          Back in high school, I built a 6-figure gloves distribution business,
-          selling to local businesses via cold calling and to a broader audience
-          through eBay
-        </p>
-        <p>
-          Later in college, I built AI systems at Twitch and AWS, co-founded{" "}
+          Previously, I built AI systems at Twitch and AWS, co-founded{" "}
           Komma (sales automation), and started{" "}
           <a
             href="https://www.codelabdavis.com/"
@@ -207,7 +200,7 @@ export default function Home() {
             >
               Canvas AI
             </a>{" "}
-            backed by YC. The future of Sales.
+            backed by YC. GTM, Engineered.
           </div>
         </div>
 
@@ -218,7 +211,7 @@ export default function Home() {
             </div>
             <div>
               <span className="company-name">Harvard</span>
-              <span className="position">Research Intern</span>
+              <span className="position">Research</span>
             </div>
             <div className="chevron">
               <svg
@@ -257,7 +250,7 @@ export default function Home() {
             </div>
             <div>
               <span className="company-name">Twitch</span>
-              <span className="position">Applied Science Intern</span>
+              <span className="position">Applied Science</span>
             </div>
             <div className="chevron">
               <svg
@@ -288,7 +281,7 @@ export default function Home() {
             </div>
             <div>
               <span className="company-name">AWS</span>
-              <span className="position">ML Eng Intern</span>
+              <span className="position">Research Eng</span>
             </div>
             <div className="chevron">
               <svg
@@ -393,39 +386,6 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="work-item">
-          <div className="work-header">
-            <div className="company-logo codelab">
-              <Image src={glovesLogo} alt="Gloves OD" width={26} height={26} />
-            </div>
-            <div>
-              <span className="company-name">Gloves OD</span>
-              <span className="position">Founder</span>
-            </div>
-            <div className="chevron">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="20"
-                height="20"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="m6 9 6 6 6-6" />
-              </svg>
-            </div>
-          </div>
-          <div className="work-details">
-            started a glove distribution business in high school to support my
-            family, reaching 6 figures in annual revenue. sourced latex and
-            nitrile gloves and sold to SMBs including mechanic shops, medical
-            clinics, and dental offices. prospected using yellow pages, cold
-            called, delivered products, and later expanded to selling on ebay.
-          </div>
-        </div>
       </div>
 
       <div className="section" style={{ marginTop: "40px" }}>
