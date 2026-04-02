@@ -121,6 +121,9 @@ export default function Home() {
 
       <div className="bio">
         <p>
+          Founder, researcher, and engineer interested in self-improving AI agents.
+        </p>
+        <p>
           I'm CEO & Founder of{" "}
           <a
             href="https://canvas.inc/"
@@ -129,11 +132,20 @@ export default function Home() {
           >
             Canvas AI
           </a>{" "}
-          building gtm coding agents, backed by YC.
+          building coding agents for knowledge work, backed by YC.
+          Previously, I trained Twitch's first video foundation model from scratch and proposed a new continual online learning method.
         </p>
         <p>
-          Previously, I built AI systems at Twitch and AWS, co-founded{" "}
-          Komma (sales automation), and started{" "}
+          At Harvard, I published research on state of the art video LLMs including{" "}
+          <a
+            href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04213.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            MiniGPT4-Video
+          </a>
+          . Before that, I co-founded{" "}
+          Komma (calendar automation) and started{" "}
           <a
             href="https://www.codelabdavis.com/"
             target="_blank"
@@ -141,7 +153,7 @@ export default function Home() {
           >
             CodeLab
           </a>
-          , a student builder club (now 150+ members)
+          , a student builder club (now 150+ members).
         </p>
 
         <p>
@@ -230,7 +242,7 @@ export default function Home() {
             </div>
           </div>
           <div className="work-details">
-            worked on LLMs and Vision Models. Over 100+ citations in top
+            worked on LLMs and Vision Models. Over 250+ citations in top
             conferences like CVPR and ECCV. Check out my{" "}
             <a
               href="https://scholar.google.com/citations?hl=en&authuser=1&user=M8PjtQYAAAAJ"
@@ -417,16 +429,31 @@ export default function Home() {
             </div>
           </div>
           <div className="work-details">
-            worked on different ai projects from automated data labeling to ai
-            biz analyst - eventually leading to{" "}
+            published research on video LLMs including{" "}
             <a
-              href="https://www.canvas.inc"
+              href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04213.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Canvas AI
+              MiniGPT4-Video
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://arxiv.org/abs/2407.12679"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Goldfish
             </a>
-            .
+            {" "}(ECCV 2024), and adversarial attacks on vision transformers with{" "}
+            <a
+              href="https://arxiv.org/abs/2310.02544"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              SlowFormer
+            </a>
+            {" "}(CVPR 2024).
           </div>
         </div>
 
