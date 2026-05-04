@@ -115,6 +115,29 @@ export default function Home() {
                 <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
               </svg>
             </a>
+            <a
+              href="https://scholar.google.com/citations?hl=en&authuser=1&user=M8PjtQYAAAAJ"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Google Scholar"
+              className="icon-link"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M12 14l-8-5.5L12 3l8 5.5z" />
+                <path d="M4 8.5v7L12 21l8-5.5v-7" />
+                <circle cx="12" cy="14" r="3" />
+              </svg>
+            </a>
           </div>
         </div>
       </div>
