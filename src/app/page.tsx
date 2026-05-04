@@ -156,7 +156,7 @@ export default function Home() {
             Canvas AI
           </a>{" "}
           building coding agents for knowledge work, backed by YC.
-          Previously, I led the design and training of Twitch's first video foundation model from scratch, where I also developed a novel continual learning method.
+          Previously, I led the design and training of Twitch's first video foundation model, where I also proposed a continual learning method to train on incoming video streams.
         </p>
         <p>
           At Harvard, I contributed to one of the first video LLMs:{" "}
@@ -167,7 +167,7 @@ export default function Home() {
           >
             MiniGPT4-Video
           </a>{" "}
-          (ECCV) and led research on adversarial robustness published at CVPR.
+          (ECCV) and led research on ML robustness published at CVPR.
           Before that, I co-founded{" "}
           Komma (sales automation) and started{" "}
           <a
